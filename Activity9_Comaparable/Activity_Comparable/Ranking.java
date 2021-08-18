@@ -1,4 +1,4 @@
-package comparable.PlayerRanking;
+package Activity_Comparable;
 
 class Ranking implements Comparable<Ranking>
 { 
