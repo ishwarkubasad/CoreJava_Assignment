@@ -1,4 +1,4 @@
-package comparable.PlayerRanking;
+package Activity_Comparable;
 
 import java.util.*;   
 import java.util.Scanner;
